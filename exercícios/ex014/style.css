@@ -1,10 +1,12 @@
 body {
+    background-image: url(Furia_Esports_logo.png) ;
     font: normal 15pt Arial;
     text-align: center;
 
 }
 
 header {
+    color: white;
      text-align: center;
 
 }
